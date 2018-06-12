@@ -27,7 +27,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
