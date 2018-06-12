@@ -1,8 +1,30 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
 
-作成中です
+<!---
+  不要な行は削除してください。
+  見出し足りないと思うので追加してください
+-->
+
+## 概要
+
+
+## 詳細・仕様
+
+
+## 執筆者リスト
+
+
+## 頒布予定イベント
+
+
+
+## フライヤー
+
+
+## フライヤー配布イベント
+
+## お問い合わせ
+
+以下、表紙絵師さんリンク、協賛イベントリンク等
