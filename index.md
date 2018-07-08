@@ -45,9 +45,6 @@ pixiv：https://www.pixiv.net/member.php?id=18037716
 ## お問い合わせ
 
 
-## きのこ
-
-
 以下、表紙絵師さんリンク、協賛イベントリンク等
 
 
