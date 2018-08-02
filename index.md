@@ -32,8 +32,8 @@ layout: default
 ※執筆者様へアンソロジーについてお問い合わせをしないようお願いいたします 
 ※五十音順、敬称・参加種別略 
 
-おへそさん　[twitter](https://twitter.com/umbilical_000)  
-きりしろさん　 [pixiv](https://www.pixiv.net/member.php?id=10417814)
+おへそさん　[twitter](https://twitter.com/umbilical_000) 
+きりしろさん　 [pixiv](https://www.pixiv.net/member.php?id=10417814) 
 くらもとさん	[pixiv](https://www.pixiv.net/member.php?id=32618044) 
 けあーさん　[twitter](https://twitter.com/Kah_over_dg) 
 ◆さん　[pixiv](https://www.pixiv.net/member.php?id=20035026) 
