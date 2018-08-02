@@ -29,6 +29,26 @@ layout: default
 ***
 
 ## 執筆者様リスト
+※執筆者様へアンソロジーについてお問い合わせをしないようお願いいたします 
+※五十音順、敬称・参加種別略 
+
+おへそさん　[twitter](https://twitter.com/umbilical_000)  
+きりしろさん　 [pixiv](https://www.pixiv.net/member.php?id=10417814)
+くらもとさん	[pixiv](https://www.pixiv.net/member.php?id=32618044) 
+けあーさん　[twitter](https://twitter.com/Kah_over_dg) 
+◆さん　[pixiv](https://www.pixiv.net/member.php?id=20035026) 
+チゲ子さん　[twitter](https://twitter.com/chigekoon) 
+ほうろさん　[piviv](https://www.pixiv.net/member.php?id=268361) 
+まだもさん　[piviv](https://www.pixiv.net/member.php?id=1121960) 
+みやさん	[piviv](https://www.pixiv.net/member.php?id=1358149) 
+やすこさん
+ゆっきぃさん	[piviv](https://www.pixiv.net/member.php?id=19154811) 
+冨緒さん	
+侑翠さん	[piviv](https://www.pixiv.net/member.php?id=1040271)
+おむすび（主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716) 
+
+
+
 
 ***
 
