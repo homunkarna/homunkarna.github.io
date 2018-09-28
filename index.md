@@ -68,17 +68,16 @@ layout: default
 ***
 
 ## フライヤー配布イベント
-
-2018/11/24(土) 東京ビッグサイト　[第18次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2489.html)(予定)    
+   
 2019/01/13(日) インテックス大阪　[第19次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2682.html)(予定)  
 
 ***
 
 ## お問い合わせ
+主催：おむすび[twitter](https://twitter.com/edmonsuki)   
 
-***
 
-以下、協賛イベントリンク等（確認中）
+## 以下、協賛イベントリンク等（確認中）
 
 
 
