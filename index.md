@@ -47,8 +47,9 @@ layout: default
   
 侑翠さん	[piviv](https://www.pixiv.net/member.php?id=10402711)  
 おむすび（主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)   
-| TD1 | TD3 |  
-| TD2 | TD4 |  
+| TH1 | TH2 |
+| TD1 | TD3 |
+| TD2 | TD4 | 
 
 
 ***
