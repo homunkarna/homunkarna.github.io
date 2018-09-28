@@ -47,9 +47,11 @@ layout: default
 侑翠さん	[piviv](https://www.pixiv.net/member.php?id=10402711)  
 おむすび（主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)   
   
-|枠を|つけても|    
-|:---|:---|:---|   
-|意味は|同じです|   
+|名前|番号|得点|
+|---|---|---|  
+|suzuki|23|56|  
+|yamada|78|98|  
+|togashi|34|45|  
 
 ***
 
