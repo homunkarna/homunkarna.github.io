@@ -44,7 +44,7 @@ layout: default
 |ほうろさん|[piviv](https://www.pixiv.net/member.php?id=268361)|
 |まだもさん|[piviv](https://www.pixiv.net/member.php?id=1121960)|
 |みやさん|[piviv](https://www.pixiv.net/member.php?id=1358149)|
-|やすこさん|　　|
+|佐和山靖子さん|[piviv](https://www.pixiv.net/member.php?id=2459937)|
 |ゆっきぃさん|[piviv](https://www.pixiv.net/member.php?id=19154811)|
 |侑翠さん|[piviv](https://www.pixiv.net/member.php?id=10402711)|
 |おむすび（主催）|[twitter](https://twitter.com/edmonsuki)|
