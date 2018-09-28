@@ -38,7 +38,7 @@ layout: default
 |◆さん|[pixiv](https://www.pixiv.net/member.php?id=20035026)|
 |きりしろさん|[pixiv](https://www.pixiv.net/member.php?id=10417814)|
 |くらもとさん|[pixiv](https://www.pixiv.net/member.php?id=32618044)|
-|けあーさん|[twitter](https://twitter.com/Kah_over_dg)|
+|けあーさん|[twitter](https://twitter.com/kah_over)|
 |チゲ子さん|[twitter](https://twitter.com/chigekoon)|
 |冨緒さん|　　|
 |ほうろさん|[piviv](https://www.pixiv.net/member.php?id=268361)|
