@@ -45,19 +45,24 @@ layout: default
 やすこさん  
 ゆっきぃさん	[piviv](https://www.pixiv.net/member.php?id=19154811)  
 侑翠さん	[piviv](https://www.pixiv.net/member.php?id=10402711)  
-おむすび（主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)   
+おむすび （主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)   
   
 |名前|サイト|
 |:---|:---|
-|おへそさん|[twitter](https://twitter.com/umbilical_000)| 
+|おへそさん|[twitter](https://twitter.com/umbilical_000)|
 |きりしろさん|[pixiv](https://www.pixiv.net/member.php?id=10417814)|
-  
-|名前|番号|得点|
-|---|---|---|
-|suzuki|23|56|
-|yamada|78|98|
-|togashi|34|45|
-  
+|くらもとさん|[pixiv](https://www.pixiv.net/member.php?id=32618044)|
+|けあーさん|[twitter](https://twitter.com/Kah_over_dg)|
+|◆さん|[pixiv](https://www.pixiv.net/member.php?id=20035026)|
+|冨緒さん|　　|
+|ほうろさん|[piviv](https://www.pixiv.net/member.php?id=268361)|
+|まだもさん|[piviv](https://www.pixiv.net/member.php?id=1121960)|
+|みやさん|[piviv](https://www.pixiv.net/member.php?id=1358149)|
+|やすこさん|　　|
+|ゆっきぃさん|[piviv](https://www.pixiv.net/member.php?id=19154811)|
+|侑翠さん|[piviv](https://www.pixiv.net/member.php?id=10402711)|
+|おむすび主催|[twitter](https://twitter.com/edmonsuki)|
+
   
 ***
 
