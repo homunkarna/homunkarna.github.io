@@ -47,10 +47,10 @@ layout: default
 侑翠さん	[piviv](https://www.pixiv.net/member.php?id=10402711)  
 おむすび（主催）[twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)   
   
-|名前|番号|得点|
+|名前|サイト|
 |---|---|---|  
-|suzuki|23|56|  
-|yamada|78|98|  
+|おへそさん|[twitter](https://twitter.com/umbilical_000)|    
+|きりしろさん|[pixiv](https://www.pixiv.net/member.php?id=10417814)|    
 |togashi|34|45|  
 
 ***
