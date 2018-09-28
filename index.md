@@ -56,7 +56,7 @@ layout: default
 
 ***
 
-初頒布：[第20次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2710.html)  　
+初頒布：[第20次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2710.html)  
 上記以降参加するイベントにつきましては告知アカウント[@homukaru](https://twitter.com/homukaru)にてアナウンスいたしますのでよろしくお願いします
 
 ***
