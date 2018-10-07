@@ -21,7 +21,7 @@ layout: default
 ページ数：ページ数未定（口絵あり）  
 イベント頒布価格：未定  
 ノベルティ：未定  
-発行日：2019年02月24日（日）	
+発行日：2019年02月24日（日）  
 通販：後日対応予定です  
 主催：おむすび 
 [twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)
