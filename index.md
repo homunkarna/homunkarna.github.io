@@ -15,14 +15,14 @@ layout: default
 ***
 　　
 ## 詳細・仕様など
-タイトル：工場長のホムカル製造マニュアル（仮）  
+タイトル：prototype ∞  
 内容：アルジュナ×カルナの「工場長」をテーマにした二次創作アンソロジー（18歳未満禁止）  
 仕様：A5  オフセット印刷　表紙フルカラー   
 ページ数：ページ数未定（口絵あり）  
 イベント頒布価格：未定  
 ノベルティ：未定  
 発行日：2019年02月24日（日）	
-通販：未定  
+通販：後日対応予定です  
 主催：おむすび 
 [twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)
 
@@ -61,14 +61,17 @@ layout: default
 
 ***
 
-## フライヤー
+## 執筆要項
+執筆者様は右記リンク先を必ずご確認お願いいたします[執筆要項](https://homunkarna.github.io/spec)
 
+
+## フライヤー
 作成中です
 
 ***
 
 ## フライヤー配布イベント
-   
+2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)(予定)  
 2019/01/13(日) インテックス大阪　[第19次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2682.html)(予定)  
 
 ***
