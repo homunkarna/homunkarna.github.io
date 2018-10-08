@@ -21,15 +21,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background: url("../images/back_main.jpg") no-repeat center center fixed; 
+  font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN",メイリオ,Meiryo,sans-serif;
+
+  background: url("../images/back_main.jpg") no-repeat left center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   position: relative;
   padding-left: 20%;
-  
-  font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue","游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN",メイリオ,Meiryo,sans-serif;
+  padding-bottom: 160%;
 }
 
 #container {
