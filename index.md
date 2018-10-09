@@ -30,24 +30,24 @@ layout: default
 
 ## 執筆者様リスト
 ※執筆者様へアンソロジーについてお問い合わせをしないようお願いいたします 
-※五十音順、敬称・参加種別略 
+※五十音順、参加種別略 
   
 |名前|サイト|
 |:---|:---|
-|おへそさん|[twitter](https://twitter.com/umbilical_000)|
-|◆さん|[pixiv](https://www.pixiv.net/member.php?id=20035026)|
-|きりしろさん|[pixiv](https://www.pixiv.net/member.php?id=10417814)|
-|くらもとさん|[pixiv](https://www.pixiv.net/member.php?id=32618044)|
-|けあーさん|[twitter](https://twitter.com/kah_over)|
-|チゲ子さん|[twitter](https://twitter.com/chigekoon)|
-|冨緒さん|　　|
-|ほうろさん|[piviv](https://www.pixiv.net/member.php?id=268361)|
-|まだもさん|[piviv](https://www.pixiv.net/member.php?id=1121960)|
-|みやさん|[piviv](https://www.pixiv.net/member.php?id=1358149)|
-|佐和山靖子さん|[piviv](https://www.pixiv.net/member.php?id=2459937)|
-|ゆっきぃさん|[piviv](https://www.pixiv.net/member.php?id=19154811)|
-|侑翠さん|[piviv](https://www.pixiv.net/member.php?id=10402711)|
-|おむすび（主催）|[twitter](https://twitter.com/edmonsuki)|
+|おへそさん(漫画・イラスト)|[twitter](https://twitter.com/umbilical_000)|
+|◆さん(漫画・イラスト)|[pixiv](https://www.pixiv.net/member.php?id=20035026)|
+|きりしろさん（小説）|[pixiv](https://www.pixiv.net/member.php?id=10417814)|
+|くらもとさん(漫画・イラスト)|[pixiv](https://www.pixiv.net/member.php?id=32618044)|
+|けあーさん(漫画・イラスト)|[twitter](https://twitter.com/kah_over)|
+|チゲ子さん(漫画・イラスト)|[twitter](https://twitter.com/chigekoon)|
+|冨緒さん(漫画・イラスト)|　　|
+|ほうろさん（小説）|[piviv](https://www.pixiv.net/member.php?id=268361)|
+|まだもさん（小説）|[piviv](https://www.pixiv.net/member.php?id=1121960)|
+|みやさん（小説）|[piviv](https://www.pixiv.net/member.php?id=1358149)|
+|佐和山靖子さん（小説）|[piviv](https://www.pixiv.net/member.php?id=2459937)|
+|ゆっきぃさん(漫画・イラスト)|[piviv](https://www.pixiv.net/member.php?id=19154811)|
+|侑翠さん（小説）|[piviv](https://www.pixiv.net/member.php?id=10402711)|
+|おむすび（主催）（小説）|[twitter](https://twitter.com/edmonsuki)|
 
   
 ***
