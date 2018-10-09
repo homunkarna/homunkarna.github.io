@@ -34,7 +34,7 @@ layout: default
   
 |名前|サイト|
 |:---|:---|
-|おへそさん(漫画・イラスト)|[twitter](https://twitter.com/umbilical_000)|
+|おへそさん(漫画・イラスト)|[pixiv](https://www.pixiv.net/member.php?id=20840109)|
 |◆さん(漫画・イラスト)|[pixiv](https://www.pixiv.net/member.php?id=20035026)|
 |きりしろさん（小説）|[pixiv](https://www.pixiv.net/member.php?id=10417814)|
 |くらもとさん(漫画・イラスト)|[pixiv](https://www.pixiv.net/member.php?id=32618044)|
