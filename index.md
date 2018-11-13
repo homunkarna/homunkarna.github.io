@@ -74,7 +74,7 @@ layout: default
 ***
 
 ## フライヤー配布イベント
-2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)(予定)  
+2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)済 
 2019/01/13(日) インテックス大阪　[第19次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2682.html)(予定)  
 
 ***
@@ -86,4 +86,7 @@ layout: default
 ## 以下、協賛イベントリンク等（確認中）
 
 
+## 更新履歴　11/13
+10/28大阪[第17次ROOT 4 to 5]にてフライヤー配布をいたしました。手に取って頂きありがとうございます。  
+次回配布イベントは今のところ未定です。
 
