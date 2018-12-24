@@ -47,7 +47,6 @@ layout: default
 |まだもさん（小説）|[piviv](https://www.pixiv.net/member.php?id=1121960)|
 |みやさん（小説）|[piviv](https://www.pixiv.net/member.php?id=1358149)|
 |佐和山靖子さん（小説）|[piviv](https://www.pixiv.net/member.php?id=2459937)|
-|ゆっきぃさん(漫画・イラスト)|[piviv](https://www.pixiv.net/member.php?id=19154811)|
 |侑翠さん（小説）|[piviv](https://www.pixiv.net/member.php?id=10402711)|
 |おむすび（主催）（小説）|[twitter](https://twitter.com/edmonsuki)|
 
@@ -75,7 +74,8 @@ layout: default
 
 ## フライヤー配布イベント
 2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)済 
-2019/01/13(日) インテックス大阪　[第19次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2682.html)(予定)  
+※現在配布予定イベントはございません
+
 
 ***
 
@@ -86,7 +86,14 @@ layout: default
 ## 以下、協賛イベントリンク等（確認中）
 
 
-## 更新履歴　11/13
-10/28大阪[第17次ROOT 4 to 5]にてフライヤー配布をいたしました。手に取って頂きありがとうございます。  
-次回配布イベントは今のところ未定です。
+## 更新履歴  
+2018/11/13  
+・10/28大阪[第17次ROOT 4 to 5]にてフライヤー配布をいたしました。手に取って頂きありがとうございます。  
+次回配布イベントは今のところ未定です。  
+
+2018/12/25  
+・フライヤー配布予定イベントを変更しました。現在、次回配布予定のイベントはございません
+・ゆっきぃ様が辞退されましたので上記執筆者様一覧・リンクを修正しました。
+
+
 
