@@ -23,7 +23,7 @@ layout: default
 ページ数：170P（口絵3枚あり）  
 イベント頒布価格：1500円（※予定）  
 発行日：2019年02月24日（日）  
-通販：とらのあな様　委託  [prototype ∞　購入ページ](https://ec.toranoana.jp/joshi_r/ec/item/040030707089/) 
+通販：とらのあな様　委託  [prototype ∞　購入ページ](https://ec.toranoana.jp/joshi_r/ec/item/040030707089/)  
 主催：おむすび 
 [twitter](https://twitter.com/edmonsuki)  [pixiv](https://www.pixiv.net/member.php?id=18037716)
 
@@ -72,7 +72,7 @@ layout: default
 ***
 
 ## フライヤー配布イベント
-2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)済 
+2018/10/28(日) インテックス大阪　[第17次ROOT 4 to 5](https://www.akaboo.jp/neo/event/p2460.html)済  
 ※現在配布予定イベントはございません
 
 
@@ -87,8 +87,8 @@ layout: default
 手に取って頂きありがとうございます  
 
 2018/12/25  
-・フライヤー配布予定イベントを変更しました。現在、次回配布予定のイベントはございません
-・ゆっきぃ様が辞退されましたので上記執筆者様一覧・リンクを修正しました
+・フライヤー配布予定イベントを変更しました。現在、次回配布予定のイベントはございません  
+・ゆっきぃ様が辞退されましたので上記執筆者様一覧・リンクを修正しました  
 
 2019/2/11 
 ・とらのあな様委託販売ページのリンクを作りました  
